@@ -1,0 +1,26 @@
+import java.util.*;
+class product {
+
+   int id;
+   String name;
+   float price;
+   public product(int id,String name,float price){
+       this.id;=id;
+       this.name=name;
+       this.price=price;
+       
+   }
+}
+public class stream{
+   public static void main(String[] args){
+       List <product>productList=newArrayList<product>();
+       
+       productList.add(new product(1,"HP LAP",20000));
+       productList.add(new product(2,"DELL LAP",30000));
+       productList.add(new product(3,"ASUS LAP",25000));
+       productList.add(new product(4,"LENOVO LAP",40000));
+       
+       List<float>priceList=productsList.stream().filter(p->p.price>25000).map(pm.price).collect(collectors.toList());
+       System.out.println(priceList);
+   } 
+}
