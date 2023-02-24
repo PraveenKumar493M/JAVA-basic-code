@@ -1,0 +1,12 @@
+public class spaceRemove
+{
+    public static void main(String[] args)
+    {
+        String val="this is    a  very   usefull      are.";
+        
+        String val2=val.replaceAll("\\s","");
+        
+        System.out.println(val2);
+        
+    }
+}
