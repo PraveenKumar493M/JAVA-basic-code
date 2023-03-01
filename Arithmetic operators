@@ -1,0 +1,18 @@
+import java.util.Scanner;
+public class Divide {
+    public static void main(String args[])
+    {
+     Scanner arr=new Scanner(System.in);
+     System.out.println("enter the first number");
+     int one=arr.nextInt();
+     
+     System.out.println("enter the second number");
+     int two=arr.nextInt();
+     
+     System.out.println("enter the three number");
+     int three=arr.nextInt();
+     
+     System.out.println(one+two/3*2-three%3);
+      
+    }
+}
