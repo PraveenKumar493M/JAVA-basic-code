@@ -12,7 +12,11 @@ public class Divide {
      System.out.println("enter the three number");
      int three=arr.nextInt();
      
-     System.out.println(one+two/3*2-three%3);
+     int first=one+two/3*2;
+     int second=three%3;
+     int third=first-second;
+     
+     System.out.println(third);
       
     }
 }
