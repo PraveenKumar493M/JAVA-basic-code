@@ -2,14 +2,14 @@
 // using the switch...case statement
 
 class Main {
-  public static void main(String[] args) {
-
+  public static void main(String[] args) 
+  {
     int number = 3;
     String size;
 
     // switch statement to check size
-    switch (string) {
-
+    switch (string) 
+    {
       case 1:
         size = "Small";
         break;
