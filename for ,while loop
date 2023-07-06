@@ -6,7 +6,7 @@ public class Operater {
 			System.out.print(i);
 			i++;
 		}
-}
+ }
 } 
 //for loop 
 public class Operater{
