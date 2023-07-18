@@ -6,7 +6,6 @@ public class Comparision
         Long y= new Long (87776);   
         System.out.println("Objects not equal :"+ x.equals(y));
         
-        System.out.println("objects are equal :"+ x.equals(133.657));
-        
+        System.out.println("objects are equal :"+ x.equals(133.657));        
     }
 }
