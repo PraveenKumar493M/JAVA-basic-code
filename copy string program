@@ -7,10 +7,8 @@ class Namewant
     //   destination
     char[] texTo= new char[7];
     System.arraycopy(van,1,texTo,0,7);
-    System.out.println(String.valueOf(texTo)+ " ");
-    
-     //declaring a source array  
-     
+    System.out.println(String.valueOf(texTo)+ " ");  
+     //declaring a source array    
         char[] fromOn = { 'n','h','e','l','l','0','g','o' };  
         //declaring a destination array  
         char[] copyTo = new char[7];  
