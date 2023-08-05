@@ -4,8 +4,7 @@ public class Comparision
     {
         Double x= new Double(133.657);
         Long y= new Long (87776);   
-        System.out.println("Objects not equal :"+ x.equals(y));
-        
+        System.out.println("Objects not equal :"+ x.equals(y));  
         System.out.println("objects are equal :"+ x.equals(133.657));        
     }
 }
