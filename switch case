@@ -27,9 +27,7 @@ class Main {
       
       default:
         size = "Unknown";
-        break;
-
-    
+        break; 
 }
     
     System.out.println("Size: " + size);
