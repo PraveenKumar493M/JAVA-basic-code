@@ -4,7 +4,7 @@ public class Operater {
 		int i=0;
 		while(i<=15) {
 			System.out.print(i);
-			i++; 
+              		i++; 
 	}
    }
 } 
