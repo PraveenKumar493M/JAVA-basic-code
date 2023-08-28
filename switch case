@@ -24,7 +24,7 @@ class Main {
       case 4:
         size = "Extra Large";
         break;
-      
+
       default:
         size = "Unknown";
         break; 
