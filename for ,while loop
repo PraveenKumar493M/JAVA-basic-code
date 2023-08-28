@@ -3,8 +3,8 @@ public class Operater {
 	public static void main (String[] arg) {
 		int i=0;
 		while(i<=15) {
-			System.out.print(i);
-              		i++; 
+		System.out.print(i);
+		i++; 
 	}
    }
 } 
