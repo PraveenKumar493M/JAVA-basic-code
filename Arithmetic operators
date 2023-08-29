@@ -14,6 +14,5 @@ public class Divide {
      int second=three%3;
      int third=first-second;   
      System.out.println(third);  
-
     }
 }
