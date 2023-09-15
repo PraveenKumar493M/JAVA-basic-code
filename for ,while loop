@@ -8,7 +8,6 @@ public class Operater {
 	}
    }
 } 
-
 //for loop 
 public class Operater{
 public static void main (String[] arg){
