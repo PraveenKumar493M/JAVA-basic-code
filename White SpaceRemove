@@ -5,5 +5,6 @@ public class spaceRemove
         String arr="this is    a  very   usefull      are."; 
         String arr2=val.replaceAll("\\s","");     
         System.out.println(arr2);  
+
     }
 }
