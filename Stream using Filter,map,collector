@@ -16,7 +16,6 @@ public class stream{
        productList.add(new product(2,"DELL LAP",30000));
        productList.add(new product(3,"ASUS LAP",25000));
        productList.add(new product(4,"LENOVO LAP",40000));
-       
        List<float>priceList=productsList.stream().filter(p->p.price>25000).map(pm.price).collect(collectors.toList());
        System.out.println(priceList);
    } 
