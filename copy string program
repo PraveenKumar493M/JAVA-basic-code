@@ -2,7 +2,6 @@ class Namewant
 {
     public static void main(String[] args) 
     {
-
         // declare array
       char[] van={'a','p','r','a','v','e','e','n','k','l'};
     //   destination
