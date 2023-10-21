@@ -1,7 +1,6 @@
 public class Comparision
 {
     public static void main(String[] args)
-
     {
         Double x= new Double(133.657);
         Long y= new Long (87776);   
