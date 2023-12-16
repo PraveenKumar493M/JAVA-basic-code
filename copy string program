@@ -15,5 +15,6 @@ class Namewant
         System.arraycopy(fromOn, 1, copyTo, 0, 5);  
         //printing the destination array  
         System.out.println(String.valueOf(copyTo));  
+
     }  
 }
