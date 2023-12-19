@@ -1,4 +1,5 @@
 class Namewant 
+
 {    public static void main(String[] args) 
     {
         // declare array
