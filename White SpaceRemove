@@ -6,3 +6,4 @@ public class spaceRemove{
         System.out.println(arr2);  
     }
 }
+
