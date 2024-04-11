@@ -1,5 +1,6 @@
 //while loop
-public class Operater {
+public class Operater
+{
 	public static void main (String[] arg) {
 		int i=0;
 		while(i<=15) {
