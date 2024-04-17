@@ -1,5 +1,4 @@
 import java.util.*;
-
 class product {
    int id;
    String name;
@@ -20,5 +19,4 @@ public class stream{
        List<float>priceList=productsList.stream().filter(p->p.price>25000).map(pm.price).collect(collectors.toList());
        System.out.println(priceList);
    } 
-
 }
