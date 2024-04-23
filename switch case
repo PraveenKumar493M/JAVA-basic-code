@@ -24,7 +24,6 @@ class Main {
         size = "Unknown";
         break; 
 }
-    
     System.out.println("Size: " + size);
   }
 }
