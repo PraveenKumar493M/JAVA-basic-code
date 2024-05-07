@@ -9,8 +9,8 @@ class product {
        this.price=price;      
    }
 }
-public class stream{
-   public static void main(String[] args){
+public class stream {
+   public static void main(String[] args) {
        List <product>productList=newArrayList<product>();
        productList.add(new product(1,"HP LAP",20000));
        productList.add(new product(2,"DELL LAP",30000));
