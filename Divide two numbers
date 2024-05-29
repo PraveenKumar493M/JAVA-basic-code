@@ -8,4 +8,5 @@ public class Divide {
      int two=arr.nextInt();     
      System.out.println(one/two);
     }
+
 }
