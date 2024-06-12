@@ -7,8 +7,8 @@ class product {
        this.id;=id;
        this.name=name;
        this.price=price;      
-   }
-}
+    }
+ }
 public class stream {
    public static void main(String[] args) {
        List <product>productList=newArrayList<product>();
